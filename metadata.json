@@ -1,0 +1,6 @@
+{
+  "name": "Table Tennis Match Tracker & Side Analytics",
+  "description": "A clean application for tracking and analyzing ping pong match history, record live scores, and evaluate if table side impacts winning rates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
